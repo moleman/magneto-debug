@@ -1,0 +1,5 @@
+{
+    "name": "magneto/debug",
+    "type": "magento-module",
+    "description": "Magento Debug Toolbar"
+}
